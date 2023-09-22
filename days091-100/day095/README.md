@@ -4,7 +4,7 @@ _Build a custom website using an API that you find interesting_
 
 # Portfolio Analytics Dashboard
 
-View the official repository here: *https://github.com/hschickdevs/Rebsamen-Portfolio-Analytics*
+View the official repository here: *https://github.com/obylo98/Rebsamen-Portfolio-Analytics*
 
 ## Overview
 

@@ -1,17 +1,14 @@
 # 100 Days of Code (Python) - Udemy
 
-💡 Dr. Angela Yu's course, [_100 Days of Code: The Complete Python Pro Bootcamp_](https://www.udemy.com/course/100-days-of-code/), aims to create fluent and well-rounded Python developers by exposing them to a wide array of Python programming concepts and techniques for 100 days straight. After completing the course, although I didn't complete it within the 100 days, I can confidently say that this was undoubtedly the best online course I've ever taken. Not only did I learn Python from zero-to-hero, but I was also taught things that most other courses skip over such as, but not limited to:
+💡 Dr. Angela Yu's course, [_100 Days of Code: The Complete Python Pro Bootcamp_](https://www.udemy.com/course/100-days-of-code/), is designed with a mission to transform aspiring Python developers into well-versed, versatile experts over the course of 100 days. Although I didn't quite adhere to the 100-day schedule, I can wholeheartedly affirm that this course has been nothing short of exceptional in my online learning journey. It has truly been a revelation, taking me from a Python novice to a confident Python aficionado. it also teaches:
 * The importance of understanding the underlying theory behind the code we write
 * How to learn effectively and efficiently, and continue to grow your skills
 * How to comply with industry best practices and standards as related to Python development
 
-    I would highly recommend this course to anyone that I know that is considering learning Python, or somebody who is even just considering learning to code in general. The knowledge that this course supplied opened doors for me and _accomplished a life goal of mine that I wasn't sure that I'd ever accomplish_. For a full list of concepts and techniques covered in the course, please see the [course syllabus](./syllabus.pdf), or visit the course on [Udemy](https://www.udemy.com/course/100-days-of-code/).
+    I wholeheartedly endorse this course for anyone I know who is either contemplating learning Python or even exploring the broader world of coding. The wealth of knowledge provided by this course has not only unlocked new opportunities for me but has also allowed me to achieve a lifelong goal I once thought might remain out of reach. 
 
 🧰 Local setup instructions and the `requirements.txt` file are included in each project, if you'd like to try any for yourself. 
 
-🏁 [Completed](./certificate.pdf) on Feb 9, 2023.
-
-👤 If anyone needs help with the course, please feel free to contact me on [**Telegram**](https://t.me/hschickdevs).
 
 🚨 While this repository's filesystem contains the project files that I completed for **all** 100 days of the course, below are the links the projects that were the **_most interesting/signifigant_** to me throughout the course:
 
